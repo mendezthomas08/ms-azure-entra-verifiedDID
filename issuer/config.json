@@ -1,11 +1,12 @@
 {
-    "azTenantId": "ebd68952-e093-4f50-9e86-c85fbacae084",
-    "azClientId": "011a30bd-f250-4b1d-bb75-52facbbc683e",
-    "azClientSecret": "vmN8Q~ILs8crt_ZwSTqAR8NCUnW9IikII-Pa0cF8",
+    "azTenantId": "",
+    "azClientId": "",
+    "azClientSecret": "",
     "azCertificateName":  "",
     "azCertThumbprint":  "",
     "azCertificatePrivateKeyLocation":  "",
-    "CredentialManifest": "https://verifiedid.did.msidentity.com/v1.0/tenants/ebd68952-e093-4f50-9e86-c85fbacae084/verifiableCredentials/contracts/70e568de-506f-ea8f-f61c-c10b6f6a8981/manifest",
-    "IssuerAuthority": "did:web:csg10032002bd91bf2a.z29.web.core.windows.net",
-    "VerifierAuthority": "did:web:csg10032002bd91bf2a.z29.web.core.windows.net"
+    "CredentialManifest": "",
+    "IssuerAuthority": "",
+    "VerifierAuthority": ""
 }
+//Only azTenantId,azClientId,azClientSecret are mandatory
