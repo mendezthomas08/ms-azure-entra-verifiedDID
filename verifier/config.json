@@ -9,4 +9,4 @@
     "IssuerAuthority": "",
     "VerifierAuthority": ""
 }
-//Only azTenantId,azClientId,azClientSecret are mandatory
+
