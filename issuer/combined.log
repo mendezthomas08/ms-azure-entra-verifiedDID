@@ -1,0 +1,81 @@
+2024-02-07T10:49:28.850Z info: The request for this API is:[object Object]
+2024-02-07T10:49:28.864Z warn: Validation error during authorization link generation:
+2024-02-07T10:50:07.789Z info: The request for this API is:[object Object]
+2024-02-07T10:50:07.791Z warn: Validation error during authorization link generation:
+2024-02-07T11:03:29.488Z info: The request for this API is:[object Object]
+2024-02-07T11:03:29.496Z warn: Validation error during authorization link generation:
+2024-02-07T11:15:30.295Z info: The request for this API is:[object Object]
+2024-02-07T11:15:30.313Z warn: Validation error during authorization link generation:
+2024-02-07T11:20:50.836Z info: The request for this API is:[object Object]
+2024-02-07T11:20:50.846Z warn: Validation error during authorization link generation:
+2024-02-07T11:28:17.761Z info: The request for this API is:[object Object]
+2024-02-07T11:28:17.772Z warn: Validation error during authorization link generation:
+2024-02-07T11:33:22.997Z info: The request for this API is:undefined
+2024-02-07T11:33:23.001Z warn: Validation error during authorization link generation:
+2024-02-07T11:33:40.701Z info: The request for this API is:undefined
+2024-02-07T11:33:40.704Z warn: Validation error during authorization link generation:
+2024-02-07T11:43:15.042Z info: The request for this API is:[object Object]
+2024-02-07T11:43:15.056Z warn: Validation error during authorization link generation:
+2024-02-07T12:34:25.357Z info: Authorize API started here
+2024-02-07T12:34:34.646Z info: Authorize API started here
+2024-02-07T12:34:34.731Z error: Error during registration: Duplicate key violation on the requested collection
+2024-02-07T12:34:49.785Z info: Authorize API started here
+2024-02-07T12:41:06.828Z info: Authorize API started here
+2024-02-07T12:41:06.922Z error: Error during registration: Duplicate key violation on the requested collection
+2024-02-07T12:43:16.270Z info: Authorize API started here
+2024-02-07T12:43:16.365Z error: Error during registration: Duplicate key violation on the requested collection
+2024-02-07T12:45:27.910Z info: Authorize API started here
+2024-02-07T12:45:27.978Z info: Authorize API successful
+2024-02-07T12:45:46.939Z info: Authorize API started here
+2024-02-07T12:45:46.948Z warn: Name or Email not entered
+2024-02-07T12:55:54.102Z info: Authorize API started here
+2024-02-07T12:55:54.103Z warn: Name or Email not entered
+2024-02-07T13:07:14.421Z info: Authorize API started here
+2024-02-07T13:07:14.500Z info: Authorize API successful
+2024-02-07T13:10:38.432Z info: Authorize API started here
+2024-02-07T13:10:38.434Z warn: Name or Email not entered
+2024-02-07T13:12:58.354Z info: Authorize API started here
+2024-02-07T13:12:58.442Z info: Authorize API successful
+2024-02-07T13:13:46.457Z info: Register API started here
+2024-02-07T13:13:46.661Z info: Register API registered successfully
+2024-02-07T13:15:27.754Z info: Login API strated here
+2024-02-07T13:15:27.910Z info: Logging successful
+2024-02-07T13:17:20.591Z info: API issuance-request API started
+2024-02-07T13:17:20.601Z info: Get token function started
+2024-02-07T13:17:20.605Z info: The Token:
+2024-02-07T13:17:20.605Z info: Access token generated: eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6ImtXYmthYTZxczh3c1RuQndpaU5ZT2hIYm5BdyIsImtpZCI6ImtXYmthYTZxczh3c1RuQndpaU5ZT2hIYm5BdyJ9.eyJhdWQiOiIzZGI0NzRiOS02YTBjLTQ4NDAtOTZhYy0xZmNlYjM0MjEyNGYiLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC9lYmQ2ODk1Mi1lMDkzLTRmNTAtOWU4Ni1jODVmYmFjYWUwODQvIiwiaWF0IjoxNzA3MzEwOTE0LCJuYmYiOjE3MDczMTA5MTQsImV4cCI6MTcwNzMxNDgxNCwiYWlvIjoiRTJWZ1lIRFY4bURJbnZ5Qng4N3RVaFhQUWRFMEFBPT0iLCJhcHBpZCI6IjAxMWEzMGJkLWYyNTAtNGIxZC1iYjc1LTUyZmFjYmJjNjgzZSIsImFwcGlkYWNyIjoiMSIsImlkcCI6Imh0dHBzOi8vc3RzLndpbmRvd3MubmV0L2ViZDY4OTUyLWUwOTMtNGY1MC05ZTg2LWM4NWZiYWNhZTA4NC8iLCJvaWQiOiIxZTkxYjgxYS02NmU4LTQyNWYtYWU5Ny0xNDQyZWUzZTc0YjEiLCJyaCI6IjAuQVdvQVVvblc2NVBnVUUtZWhzaGZ1c3JnaExsMHREME1ha0JJbHF3ZnpyTkNFazlxQUFBLiIsInJvbGVzIjpbIlZlcmlmaWFibGVDcmVkZW50aWFsLkNyZWF0ZS5BbGwiXSwic3ViIjoiMWU5MWI4MWEtNjZlOC00MjVmLWFlOTctMTQ0MmVlM2U3NGIxIiwidGlkIjoiZWJkNjg5NTItZTA5My00ZjUwLTllODYtYzg1ZmJhY2FlMDg0IiwidXRpIjoiRV9DS0lNaE9VRTJINzdPbTZMOHVBQSIsInZlciI6IjEuMCJ9.V2pUcsjP57rPIDck9JsAzCFC_r2Va9a3HzjDcFVyUfBSVJPAgiM7tS6Y9Bq_u1YQv3KMXuYETe4S866JbmsdCIJNeOPfJLsJ-j5xGUOdqTebnRhcwGN33sxQnr0KilpaSSNC66SqPggMUuokhhA8ETLVRQfAQSlgj9KrHGE49HwSON99e3kfYvluHHvrZEaYOlUiE8Shv5-sMVDfZ7GXy5fGfqI75hTm2vHngstF2DrMR4mwd2Zpp7tGbjrGqaqbOq6U0I02VW60PatIgZIYkyiqCsdHjHc97jTeZoC3P3oruE5nazVq8GpSDrD7Apx8A4pj4bPzCjiCyt3FtdZ_TA
+2024-02-07T13:17:20.605Z info: Pin generation for random checks
+2024-02-07T13:27:54.076Z info: Login API strated here
+2024-02-07T13:27:54.076Z warn: Invalid Email farmat
+2024-02-07T13:32:33.773Z info: Register API started here
+2024-02-28T09:17:11.784Z info: API lists all contracts configured in the current tenant for the specified authority
+2024-02-28T09:17:11.796Z info: getTokenForGetAllContracts API started
+2024-02-28T09:20:05.895Z info: API lists all contracts configured in the current tenant for the specified authority
+2024-02-28T09:20:05.899Z info: getTokenForGetAllContracts API started
+2024-02-28T09:22:09.148Z info: API to create contracts started here
+2024-02-28T09:27:18.211Z info: API to create contracts started here
+2024-02-28T09:29:03.858Z info: API to create contracts started here
+2024-02-28T09:30:13.610Z info: API to create contracts started here
+2024-02-28T09:30:47.106Z info: API lists all contracts configured in the current tenant for the specified authority
+2024-02-28T09:31:57.586Z info: API lists all contracts configured in the current tenant for the specified authority
+2024-02-28T09:31:57.589Z info: getTokenForGetAllContracts API started
+2024-02-28T10:02:59.774Z info: API lists all contracts configured in the current tenant for the specified authority
+2024-02-28T10:02:59.785Z info: getTokenForGetAllContracts API started
+2024-02-28T10:04:22.503Z info: API lists all contracts configured in the current tenant for the specified authority
+2024-02-28T10:04:22.505Z info: getTokenForGetAllContracts API started
+2024-02-28T10:09:04.455Z info: API lists all contracts configured in the current tenant for the specified authority
+2024-02-28T10:09:04.465Z info: getTokenForGetAllContracts API started
+2024-02-28T10:10:27.979Z info: API lists all contracts configured in the current tenant for the specified authority
+2024-02-28T10:10:27.985Z info: getTokenForGetAllContracts API started
+2024-02-28T10:13:07.416Z info: API lists all contracts configured in the current tenant for the specified authority
+2024-02-28T10:13:07.430Z info: getTokenForGetAllContracts API started
+2024-02-28T10:16:29.050Z info: API to create contracts started here
+2024-02-28T10:18:04.379Z info: API to create contracts started here
+2024-02-28T10:25:34.596Z info: API to create contracts started here
+2024-02-28T10:26:16.278Z info: API to create contracts started here
+2024-02-28T10:30:28.635Z info: API to create contracts started here
+2024-02-28T10:42:48.716Z info: API lists all contracts configured in the current tenant for the specified authority
+2024-02-28T10:42:48.717Z info: getTokenForGetAllContracts API started
+2024-02-28T10:43:02.288Z info: API to create contracts started here
+2024-02-28T10:43:03.677Z info: API lists all contracts configured in the current tenant for the specified authority
+2024-02-28T10:43:03.678Z info: getTokenForGetAllContracts API started

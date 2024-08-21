@@ -1,0 +1,343 @@
+2024-02-08T09:14:36.584Z info: Get authority by Id API started here
+2024-02-08T09:14:37.482Z info: Authority ID:
+2024-02-08T09:15:53.229Z info: Get authority by Id API started here
+2024-02-08T09:15:53.249Z info: Authority ID:
+2024-02-08T09:19:36.577Z info: Get authority by Id API started here
+2024-02-08T09:19:36.627Z info: Authority ID:
+2024-02-08T09:22:10.773Z info: Get authority by Id API started here
+2024-02-08T09:22:10.823Z info: Authority ID:
+2024-02-08T09:24:05.864Z info: Get authority by Id API started here
+2024-02-08T09:24:05.876Z info: Authority ID:
+2024-02-08T09:26:16.097Z info: Get authority by Id API started here
+2024-02-08T09:26:16.189Z info: Authority ID:
+2024-02-08T09:31:16.094Z info: Get authority by Id API started here
+2024-02-08T09:31:16.115Z info: Authority ID:
+2024-02-08T09:36:19.324Z info: Get authority by Id API started here
+2024-02-08T09:36:19.354Z info: Authority ID:
+2024-02-08T09:36:27.954Z info: Get authority by Id API started here
+2024-02-08T09:36:27.974Z info: Authority ID:
+2024-02-08T09:36:52.954Z info: Get authority by Id API started here
+2024-02-08T09:36:53.046Z info: Authority ID:
+2024-02-08T09:41:27.999Z info: Get authority by Id API started here
+2024-02-08T09:41:28.029Z info: Authority ID:
+2024-02-08T09:41:52.959Z info: Get authority by Id API started here
+2024-02-08T09:41:53.001Z info: Authority ID:
+2024-02-08T09:46:55.519Z info: Get authority by Id API started here
+2024-02-08T09:46:55.539Z info: Authority ID:
+2024-02-08T09:49:06.639Z info: Get authority by Id API started here
+2024-02-08T09:49:06.640Z info: Authority ID:
+2024-02-08T09:52:05.666Z info: Get authority by Id API started here
+2024-02-08T09:52:05.766Z info: athorities API started here
+2024-02-08T09:52:06.499Z info: Authority ID:
+2024-02-08T09:52:10.095Z info: Presentation request API started
+2024-02-08T09:52:10.125Z info: [object Object]
+2024-02-08T09:52:10.177Z info: Request Service API Request
+2024-02-08T09:52:11.329Z info: VC Client API Response
+2024-02-08T09:52:13.275Z info: presentation response
+2024-02-08T09:52:13.317Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:14.148Z info: presentation response
+2024-02-08T09:52:14.149Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:15.136Z info: presentation response
+2024-02-08T09:52:15.146Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:16.159Z info: presentation response
+2024-02-08T09:52:16.170Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:17.125Z info: presentation response
+2024-02-08T09:52:17.126Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:18.148Z info: presentation response
+2024-02-08T09:52:18.157Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:19.298Z info: presentation response
+2024-02-08T09:52:19.298Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:20.242Z info: presentation response
+2024-02-08T09:52:20.270Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:21.152Z info: presentation response
+2024-02-08T09:52:21.152Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:22.140Z info: presentation response
+2024-02-08T09:52:22.141Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:23.124Z info: presentation response
+2024-02-08T09:52:23.153Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:24.137Z info: presentation response
+2024-02-08T09:52:24.137Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:25.193Z info: presentation response
+2024-02-08T09:52:25.224Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:26.138Z info: presentation response
+2024-02-08T09:52:26.139Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:27.142Z info: presentation response
+2024-02-08T09:52:27.142Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:28.146Z info: presentation response
+2024-02-08T09:52:28.187Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:29.130Z info: presentation response
+2024-02-08T09:52:29.131Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:30.144Z info: presentation response
+2024-02-08T09:52:30.144Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:31.218Z info: presentation response
+2024-02-08T09:52:31.249Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:32.131Z info: presentation response
+2024-02-08T09:52:32.171Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:33.125Z info: presentation response
+2024-02-08T09:52:33.174Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:34.127Z info: presentation response
+2024-02-08T09:52:34.148Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:35.251Z info: presentation response
+2024-02-08T09:52:35.271Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:35.602Z info: presentation response
+2024-02-08T09:52:35.602Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:36.624Z info: presentation response
+2024-02-08T09:52:36.653Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:37.596Z info: presentation response
+2024-02-08T09:52:37.607Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:39.202Z info: presentation response
+2024-02-08T09:52:39.212Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:40.128Z info: presentation response
+2024-02-08T09:52:40.128Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:41.131Z info: presentation response
+2024-02-08T09:52:41.150Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:42.236Z info: presentation response
+2024-02-08T09:52:42.305Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:43.128Z info: presentation response
+2024-02-08T09:52:43.158Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:44.133Z info: presentation response
+2024-02-08T09:52:44.134Z warn: Unknown state: TnFoX9AYKfZ6DsRITbST4-lNubFWflkm
+2024-02-08T09:52:44.957Z info: presentation request callback API started
+2024-02-08T09:52:44.986Z info: Presentation request callback successful
+2024-02-08T09:52:45.127Z info: presentation response
+2024-02-08T09:52:46.132Z info: presentation response
+2024-02-08T09:52:47.134Z info: presentation response
+2024-02-08T09:52:48.208Z info: presentation response
+2024-02-08T09:52:49.151Z info: presentation response
+2024-02-08T09:52:50.143Z info: presentation response
+2024-02-08T09:52:51.137Z info: presentation response
+2024-02-08T09:52:52.158Z info: presentation response
+2024-02-08T09:52:53.153Z info: presentation response
+2024-02-08T09:52:54.208Z info: presentation response
+2024-02-08T09:52:55.124Z info: presentation response
+2024-02-08T09:52:56.163Z info: presentation response
+2024-02-08T09:52:57.126Z info: presentation response
+2024-02-08T09:52:58.136Z info: presentation response
+2024-02-08T09:52:59.131Z info: presentation response
+2024-02-08T09:53:00.196Z info: presentation response
+2024-02-08T09:53:01.149Z info: presentation response
+2024-02-08T09:53:02.128Z info: presentation response
+2024-02-08T09:53:03.143Z info: presentation response
+2024-02-08T09:53:04.432Z info: presentation response
+2024-02-08T09:53:05.128Z info: presentation response
+2024-02-08T09:53:06.197Z info: presentation response
+2024-02-08T09:53:06.489Z info: presentation request callback API started
+2024-02-08T09:53:06.719Z warn: Token check
+2024-02-08T09:53:06.740Z info: Presentation request callback successful
+2024-02-08T09:53:07.119Z info: presentation response
+2024-02-08T09:54:05.675Z info: Get authority by Id API started here
+2024-02-08T09:54:05.755Z info: Authority ID:
+2024-02-08T09:54:06.548Z info: athorities API started here
+2024-02-08T09:54:10.095Z info: Presentation request API started
+2024-02-08T09:54:10.114Z info: [object Object]
+2024-02-08T09:54:10.166Z info: Request Service API Request
+2024-02-08T09:54:10.624Z info: VC Client API Response
+2024-02-08T09:54:11.858Z info: presentation response
+2024-02-08T09:54:11.888Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:12.752Z info: presentation response
+2024-02-08T09:54:12.782Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:13.746Z info: presentation response
+2024-02-08T09:54:13.746Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:14.764Z info: presentation response
+2024-02-08T09:54:14.774Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:15.746Z info: presentation response
+2024-02-08T09:54:15.767Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:16.744Z info: presentation response
+2024-02-08T09:54:16.745Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:17.842Z info: presentation response
+2024-02-08T09:54:17.863Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:18.797Z info: presentation response
+2024-02-08T09:54:18.798Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:19.741Z info: presentation response
+2024-02-08T09:54:19.741Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:20.735Z info: presentation response
+2024-02-08T09:54:20.755Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:21.748Z info: presentation response
+2024-02-08T09:54:21.759Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:22.744Z info: presentation response
+2024-02-08T09:54:22.745Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:23.798Z info: presentation response
+2024-02-08T09:54:23.799Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:24.742Z info: presentation response
+2024-02-08T09:54:24.742Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:25.755Z info: presentation response
+2024-02-08T09:54:25.756Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:26.748Z info: presentation response
+2024-02-08T09:54:26.749Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:27.762Z info: presentation response
+2024-02-08T09:54:27.763Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:28.745Z info: presentation response
+2024-02-08T09:54:28.746Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:29.835Z info: presentation response
+2024-02-08T09:54:29.905Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:30.749Z info: presentation response
+2024-02-08T09:54:30.749Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:31.762Z info: presentation response
+2024-02-08T09:54:31.773Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:32.726Z info: presentation response
+2024-02-08T09:54:32.726Z warn: Unknown state: S0pg3D4Ofv0WOcUtIB2s_NO19NmXpuM5
+2024-02-08T09:54:33.354Z info: presentation request callback API started
+2024-02-08T09:54:33.384Z info: Presentation request callback successful
+2024-02-08T09:54:34.136Z info: presentation response
+2024-02-08T09:54:35.210Z info: presentation response
+2024-02-08T09:54:36.157Z info: presentation response
+2024-02-08T09:54:36.751Z info: presentation response
+2024-02-08T09:54:37.754Z info: presentation response
+2024-02-08T09:54:38.719Z info: presentation response
+2024-02-08T09:54:39.744Z info: presentation response
+2024-02-08T09:54:40.808Z info: presentation response
+2024-02-08T09:54:41.781Z info: presentation response
+2024-02-08T09:54:42.735Z info: presentation response
+2024-02-08T09:54:43.730Z info: presentation response
+2024-02-08T09:54:44.753Z info: presentation response
+2024-02-08T09:54:45.065Z info: presentation request callback API started
+2024-02-08T09:54:45.295Z warn: Token check
+2024-02-08T09:54:45.296Z info: Presentation request callback successful
+2024-02-08T09:54:45.758Z info: presentation response
+2024-02-08T09:56:34.266Z info: Get authority by Id API started here
+2024-02-08T09:56:34.336Z info: Authority ID:
+2024-02-08T09:56:35.150Z info: athorities API started here
+2024-02-08T09:56:40.040Z info: Presentation request API started
+2024-02-08T09:56:40.040Z info: [object Object]
+2024-02-08T09:56:40.141Z info: Request Service API Request
+2024-02-08T09:56:40.523Z info: VC Client API Response
+2024-02-08T09:56:44.137Z info: presentation response
+2024-02-08T09:56:44.138Z warn: Unknown state: YoW1eTYDOqGHxFyu9lG5yes9YeYLW943
+2024-02-08T09:56:44.299Z info: presentation response
+2024-02-08T09:56:44.358Z warn: Unknown state: YoW1eTYDOqGHxFyu9lG5yes9YeYLW943
+2024-02-08T09:56:44.448Z info: presentation response
+2024-02-08T09:56:44.469Z warn: Unknown state: YoW1eTYDOqGHxFyu9lG5yes9YeYLW943
+2024-02-08T09:56:44.689Z info: presentation response
+2024-02-08T09:56:44.690Z warn: Unknown state: YoW1eTYDOqGHxFyu9lG5yes9YeYLW943
+2024-02-08T09:56:45.740Z info: presentation response
+2024-02-08T09:56:45.759Z warn: Unknown state: YoW1eTYDOqGHxFyu9lG5yes9YeYLW943
+2024-02-08T09:56:46.714Z info: presentation response
+2024-02-08T09:56:46.715Z warn: Unknown state: YoW1eTYDOqGHxFyu9lG5yes9YeYLW943
+2024-02-08T09:56:47.707Z info: presentation response
+2024-02-08T09:56:47.728Z warn: Unknown state: YoW1eTYDOqGHxFyu9lG5yes9YeYLW943
+2024-02-08T09:56:48.721Z info: presentation response
+2024-02-08T09:56:48.741Z warn: Unknown state: YoW1eTYDOqGHxFyu9lG5yes9YeYLW943
+2024-02-08T09:56:52.099Z info: presentation response
+2024-02-08T09:56:52.109Z warn: Unknown state: YoW1eTYDOqGHxFyu9lG5yes9YeYLW943
+2024-02-08T09:56:52.199Z info: presentation response
+2024-02-08T09:56:52.200Z warn: Unknown state: YoW1eTYDOqGHxFyu9lG5yes9YeYLW943
+2024-02-08T09:56:52.289Z info: presentation response
+2024-02-08T09:56:52.320Z warn: Unknown state: YoW1eTYDOqGHxFyu9lG5yes9YeYLW943
+2024-02-08T09:56:52.730Z info: presentation response
+2024-02-08T09:56:52.739Z warn: Unknown state: YoW1eTYDOqGHxFyu9lG5yes9YeYLW943
+2024-02-08T09:56:53.719Z info: presentation response
+2024-02-08T09:56:53.740Z warn: Unknown state: YoW1eTYDOqGHxFyu9lG5yes9YeYLW943
+2024-02-08T09:56:54.713Z info: presentation response
+2024-02-08T09:56:54.742Z warn: Unknown state: YoW1eTYDOqGHxFyu9lG5yes9YeYLW943
+2024-02-08T09:56:55.331Z info: presentation request callback API started
+2024-02-08T09:56:55.360Z info: Presentation request callback successful
+2024-02-08T09:56:55.706Z info: presentation response
+2024-02-08T09:56:58.868Z info: presentation response
+2024-02-08T09:56:59.120Z info: presentation response
+2024-02-08T09:56:59.240Z info: presentation response
+2024-02-08T09:56:59.902Z info: presentation response
+2024-02-08T09:57:00.897Z info: presentation response
+2024-02-08T09:57:01.702Z info: presentation response
+2024-02-08T09:57:02.886Z info: presentation response
+2024-02-08T09:57:03.719Z info: presentation response
+2024-02-08T09:57:04.381Z info: presentation request callback API started
+2024-02-08T09:57:04.592Z warn: Token check
+2024-02-08T09:57:04.603Z info: Presentation request callback successful
+2024-02-08T09:57:04.783Z info: presentation response
+2024-02-08T09:59:44.947Z info: Get authority by Id API started here
+2024-02-08T09:59:44.949Z info: Authority ID:
+2024-02-08T09:59:45.038Z info: athorities API started here
+2024-02-08T09:59:53.338Z info: Get authority by Id API started here
+2024-02-08T09:59:53.339Z info: Authority ID:
+2024-02-08T09:59:53.378Z info: athorities API started here
+2024-02-08T10:00:17.066Z info: Get authority by Id API started here
+2024-02-08T10:00:17.097Z info: Authority ID:
+2024-02-08T10:00:17.203Z info: athorities API started here
+2024-02-08T10:00:26.223Z info: Presentation request API started
+2024-02-08T10:00:26.242Z info: [object Object]
+2024-02-08T10:00:26.323Z info: Request Service API Request
+2024-02-08T10:00:27.270Z info: VC Client API Response
+2024-02-08T10:00:28.550Z info: presentation response
+2024-02-08T10:00:28.580Z warn: Unknown state: 3QhmytMgVAhhHrZHDaBMOzmNEz4cj2QU
+2024-02-08T10:00:29.459Z info: presentation response
+2024-02-08T10:00:29.460Z warn: Unknown state: 3QhmytMgVAhhHrZHDaBMOzmNEz4cj2QU
+2024-02-08T10:00:30.472Z info: presentation response
+2024-02-08T10:00:30.482Z warn: Unknown state: 3QhmytMgVAhhHrZHDaBMOzmNEz4cj2QU
+2024-02-08T10:00:31.465Z info: presentation response
+2024-02-08T10:00:31.466Z warn: Unknown state: 3QhmytMgVAhhHrZHDaBMOzmNEz4cj2QU
+2024-02-08T10:00:31.496Z info: presentation request callback API started
+2024-02-08T10:00:31.556Z info: Presentation request callback successful
+2024-02-08T10:00:32.458Z info: presentation response
+2024-02-08T10:00:33.450Z info: presentation response
+2024-02-08T10:00:34.544Z info: presentation response
+2024-02-08T10:00:35.460Z info: presentation response
+2024-02-08T10:00:36.465Z info: presentation response
+2024-02-08T10:00:37.454Z info: presentation response
+2024-02-08T10:00:38.480Z info: presentation response
+2024-02-08T10:00:39.473Z info: presentation response
+2024-02-08T10:00:40.528Z info: presentation response
+2024-02-08T10:00:41.470Z info: presentation response
+2024-02-08T10:00:42.465Z info: presentation response
+2024-02-08T10:00:43.519Z info: presentation response
+2024-02-08T10:00:44.452Z info: presentation response
+2024-02-08T10:00:45.456Z info: presentation response
+2024-02-08T10:00:46.548Z info: presentation response
+2024-02-08T10:00:47.448Z info: presentation response
+2024-02-08T10:00:47.519Z info: presentation request callback API started
+2024-02-08T10:00:47.637Z warn: Token check
+2024-02-08T10:00:47.676Z info: Presentation request callback successful
+2024-02-08T10:00:48.478Z info: presentation response
+2024-02-08T10:02:39.051Z info: Get authority by Id API started here
+2024-02-08T10:02:39.062Z info: Authority ID:
+2024-02-08T10:02:39.161Z info: athorities API started here
+2024-02-08T10:02:43.306Z info: Presentation request API started
+2024-02-08T10:02:43.345Z info: [object Object]
+2024-02-08T10:02:43.396Z info: Request Service API Request
+2024-02-08T10:02:44.159Z info: VC Client API Response
+2024-02-08T10:02:45.482Z info: presentation response
+2024-02-08T10:02:45.522Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:02:46.387Z info: presentation response
+2024-02-08T10:02:46.408Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:02:47.392Z info: presentation response
+2024-02-08T10:02:47.393Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:02:48.376Z info: presentation response
+2024-02-08T10:02:48.377Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:02:49.408Z info: presentation response
+2024-02-08T10:02:49.428Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:02:50.393Z info: presentation response
+2024-02-08T10:02:50.423Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:02:51.468Z info: presentation response
+2024-02-08T10:02:51.546Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:02:52.380Z info: presentation response
+2024-02-08T10:02:52.408Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:02:53.383Z info: presentation response
+2024-02-08T10:02:53.434Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:02:54.517Z info: presentation response
+2024-02-08T10:02:54.527Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:02:55.432Z info: presentation response
+2024-02-08T10:02:55.462Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:02:56.405Z info: presentation response
+2024-02-08T10:02:56.406Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:02:57.511Z info: presentation response
+2024-02-08T10:02:57.590Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:02:58.385Z info: presentation response
+2024-02-08T10:02:58.411Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:02:59.395Z info: presentation response
+2024-02-08T10:02:59.396Z warn: Unknown state: bCZ_k246nvVORyeVPzAbi5baNCx8hcDc
+2024-02-08T10:03:00.138Z info: presentation request callback API started
+2024-02-08T10:03:00.179Z info: Presentation request callback successful
+2024-02-08T10:03:00.408Z info: presentation response
+2024-02-08T10:03:01.379Z info: presentation response
+2024-02-08T10:03:02.381Z info: presentation response
+2024-02-08T10:03:03.470Z info: presentation response
+2024-02-08T10:03:04.484Z info: presentation response
+2024-02-08T10:03:05.388Z info: presentation response
+2024-02-08T10:03:06.381Z info: presentation response
+2024-02-08T10:03:07.385Z info: presentation response
+2024-02-08T10:03:08.386Z info: presentation response
+2024-02-08T10:03:09.469Z info: presentation response
+2024-02-08T10:03:10.373Z info: presentation response
+2024-02-08T10:03:10.884Z info: presentation request callback API started
+2024-02-08T10:03:11.326Z warn: Token check
+2024-02-08T10:03:11.355Z info: Presentation request callback successful
+2024-02-08T10:03:11.496Z info: presentation response
